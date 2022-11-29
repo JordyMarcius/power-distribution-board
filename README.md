@@ -1,5 +1,5 @@
 # power-distribution-board
-The main purpose of power distribution board is to distribute power from LiPo battery to other electrical component (such as servo motor, single board computer, microcontroller, etc) safely. This board is used by Gladiatos Team from University of Indonesia Robotics Team.
+The main purpose of power distribution board is to distribute power from LiPo battery to other electrical component (such as servo motor, single board computer, microcontroller, etc) safely. This board was made for Gladiatos Team at University of Indonesia Robotics Team.
 
 <h1>Powerdist Version 1.0</h1>
 Powerdist version 1.0 was made with the addition of two features, i.e. overvoltage protection and overcurrent protection. Overvoltage protection circuit consist of bipolar junction transistor for switching device and zener diode as a regulator device. Then, fuse is used for overcurrent protection to prevent high current damaging other component.
