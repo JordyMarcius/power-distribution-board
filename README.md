@@ -8,7 +8,7 @@ Powerdist version 1.0 was made with the addition of two features, i.e. overvolta
 ![2](https://user-images.githubusercontent.com/65435469/204571347-c9ff644c-06c0-4e51-b3bb-c2a1eb6b4ce7.PNG)
 
 <h1>Powerdist Version 2.0</h1>
-Powerdist version 2.0 is the simplified version of the powerdist version 1.0. In this version, there is no overvoltage protection circuit because the voltage from LiPo battery is already stabilized using buck boost converter.
+Powerdist version 2.0 is the simplified version of the powerdist version 1.0. In this version, there is no overvoltage protection circuit because the voltage from LiPo battery is already stabilized by buck boost converter.
 
 <br>![3](https://user-images.githubusercontent.com/65435469/204571365-fe694ebb-dfe3-4a91-b858-cea61e1a796e.PNG)
 ![4](https://user-images.githubusercontent.com/65435469/204571374-54455dbb-e269-41ff-9265-348152640edc.PNG)
